@@ -14,14 +14,14 @@ PS D:\JFSJDV\Java_inheritance> java Q3
 2
 3
 
-PS D:\JFSJDV\Java_inheritance> javac Q4.java
-PS D:\JFSJDV\Java_inheritance> java Q4
+PS D:\JFSJDV\Java_inheritance> javac Q5.java
+PS D:\JFSJDV\Java_inheritance> java Q5
 Class A
 Class B
 Class C
 
-PS D:\JFSJDV\Java_inheritance> javac Q5.java
-PS D:\JFSJDV\Java_inheritance> java Q5
+PS D:\JFSJDV\Java_inheritance> javac Q6.java
+PS D:\JFSJDV\Java_inheritance> java Q6
 THIRD
 SECOND
 FIRST
